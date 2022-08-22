@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>I will work hard</h1>
+    <h1>I will work hard NAV</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> I want to be part of this team, thank you!  </h1>
 
   
 </form>
