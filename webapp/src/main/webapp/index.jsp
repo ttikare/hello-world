@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hey! thanks for coming CHG HEALTHCARE</h1>
+    <h1>Hired me, I will work hard</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
