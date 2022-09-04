@@ -35,7 +35,7 @@
    <h1> Hello World  </h1>
  
 =======
-   <h1> Thank you!!! </h1>
+   <h1> Thank you! </h1>
 >>>>>>> parent of 546b198 (hired me)
 
   
