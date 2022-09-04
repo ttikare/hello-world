@@ -32,7 +32,7 @@
   </div>
 
 <<<<<<< HEAD
-   <h1> Hello World  </h1>
+   <h1> I will work hard!  </h1>
  
 =======
    <h1> Thank you! </h1>
