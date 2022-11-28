@@ -6,7 +6,7 @@
    <h1> Hire me, I will work hard!!! </h1>
  
 =======
-   <h1> Thank you!!! Yeha!!!</h1>
+   <h1> Thank you!!! please!!!</h1>
 
   
 </form>
