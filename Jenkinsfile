@@ -18,7 +18,7 @@ pipeline{
         stage('Build Docker Image') {
             steps {
                 // Build the Docker image from the artifact
-                sh 'docker build -t <thursday> .'
+                sh 'docker build -t thursday .'
             }
         }
 
